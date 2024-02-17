@@ -1,0 +1,3 @@
+"scripts": {
+  "selenium-test": "node tests/selenium/test.js"
+}
